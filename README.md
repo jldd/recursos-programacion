@@ -44,7 +44,7 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
   	</a>
 - También puedes ver nuestro contenido en [Linkedin](https://www.linkedin.com/company/68485158).
 
-# Índice 
+# Lenguajes
 
 * [C](#c)
 * [CSS](#css)
